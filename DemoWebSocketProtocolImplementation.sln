@@ -5,6 +5,11 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoWebSocketProtocolImplementation", "DemoWebSocketProtocolImplementation\DemoWebSocketProtocolImplementation.csproj", "{9C2AF39C-ADD4-4B94-80C4-F99C7E090A24}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2FA8C950-0B6A-422C-B0B1-73B63C180D28}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
